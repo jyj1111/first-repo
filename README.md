@@ -12,8 +12,20 @@ This repo is to learn git.
 ### Installation
 
 ``` shell
-$git clone {repo addr} && cd {repo name}
-$npm install
+$ git clone {repo addr} && cd {repo name}
+$ npm install
 ```
-hello!
-show me!
+### How to start
+`$ npm start`
+
+### Supported node.js version
+
+`^v11.0`
+
+### Sample code
+
+```javascript
+console.log('hello, world!');
+```
+
+
